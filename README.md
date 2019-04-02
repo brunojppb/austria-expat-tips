@@ -2,13 +2,13 @@
 
 ![Vienna View](./img/vienna-view.jpg)
 
-Are you an expat that just moved to Austria? Here you can find valuable information about common things you must do and also the beloved bureaucratic processes the Austrians love so much 🙃.  
+Are you an expat that just moved to Austria, or are you planning to move in soon? Here you can find valuable information about common things you must do and also the beloved bureaucratic processes the Austrians love so much 🙃.  
 
 If you are a veteran expat, please contribute to this list. Let's help the expat community as much as we can.  
 
 ## Directory Structure
 
-Some information is common and valid(mostly) for the whole country, but some cities or regions have their on quirks. The common information is located in the [common](./common/README.md) directory. The cities/regions have their own directory.  
+Some information is common and valid (mostly) for the whole country, but some cities or regions have their own quirks. The common information is located in the [common](./common/README.md) directory. The cities/regions have their own directory.  
 
 If you are contributing to the project and the city's directory doesn't exist, please create one and update the index here.  
 
@@ -26,17 +26,15 @@ Topics NOT listed here are also welcome.
 
 # Vienna
 * Education
-  - German course and goverment support
-  - undergrad studies
-  - master programs
+  - German course and government support
+  - Undergrad studies
+  - Master programs
   - PhD programs
 * Transportation
   - Public transport
-  - bike services
-  - ride apps (uber, lyft, etc)
+  - Bike services
+  - Ride apps (Uber, Lyft, etc)
   - Electric scooter rentals (Lime, Bird, etc)
 * Food
-  - You must eat Schnitzel (Good restaurants to have it)
+  - You must eat Schnitzel (good restaurants to have it)
   - Austrian cuisine
-
-
