@@ -8,7 +8,7 @@ If you are a veteran expat, please contribute to this list. Let's help the expat
 
 ## Directory Structure
 
-Some information is common and valid (mostly) for the whole country, but some cities or regions have their own quirks. The common information is located in the [common](./common/README.md) directory. The cities/regions have their own directory.  
+Some information is common and valid (mostly) for the whole country, but some cities or regions have their own quirks. The common information is located in the **common** directory. The cities/regions have their own directory.  
 
 If you are contributing to the project and the city's directory doesn't exist, please create one and update the index here.  
 
