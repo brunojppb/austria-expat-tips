@@ -20,7 +20,7 @@ You will need to present the following documentation, to assure that you are in 
     3 latest payment slips (yours, if you are currenly working)
 - Meldezettel (if you moved since your last application)
 
- If your RWR card plus it based on your patner Visa, and this person it the money provider, it is import to also have the copies of his/her documents:
+ If your RWR card plus is based on your partner Visa, and this person is the money provider, it is important to also have the copies of his/her documents:
  - KSV1870
  - Passport
  - Visa
