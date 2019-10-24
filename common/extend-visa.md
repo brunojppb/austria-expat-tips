@@ -27,11 +27,11 @@ You will need to present the following documentation, to assure that you are in 
  - Work contract
  - 3 latest payment slips
 
-After you present the documentation to the MA35 representant, they will scan your finger digitals and hand you a payment bill for the new card that currently (10/2019) costs 160,00 €.
+After you present the documentation to the MA35 representant, they will scan your fingerprints and hand you a payment bill for the new card that currently (10/2019) costs €160,00.
 
 ¹If everything goes well, it takes around 30 to 40 days for the new RWR plus card to be ready. You need to come back to the same office with the paid bill receipt and some valid Id documentation (Passport or current Visa).
 
-²The [KSV1870](https://www.ksv.at/en) is a report that confirms to the authorities or your landlord that you’ll be financially reliable. It is valid for 3 months and currently costs about 30,00 €.
+²The [KSV1870](https://www.ksv.at/en) is a report that confirms to the authorities or your landlord that you’ll be financially reliable. It is valid for 3 months and currently costs about €30,00.
 
 The Application Form is not currently available on the Internet, you will most probably find it in the MA 35 office.
 
