@@ -27,6 +27,7 @@ Topics NOT listed here are also welcome.
   - [Bazar](http://www.bazar.at/)
 * Visa
   - Red-white-red card application
+  - [Red-White-red card extension](./common/extend-visa.md)
 * Transportation
   - [Driver License](./common/driver-license.md)
 * Health Insurance
