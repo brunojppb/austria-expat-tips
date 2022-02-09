@@ -16,49 +16,53 @@ Topics listed below with no links were listed on purpose. Those topics are consi
   
 Topics NOT listed here are also welcome.
 
-# Common Information (Country-wise topics)
-* Rent websites
-  - [Willhaben](https://www.willhaben.at/iad/immobilien/)
-  - [Immowelt](https://www.immowelt.at/)
-  - [Immobilien Scout](https://www.immobilienscout24.at/)
-  - [Immodirekt](https://www.immodirekt.at/)
-  - [Donau Raum](http://www.donau-raum.at/)
-  - [Wohnnet](https://www.wohnnet.at/)
-  - [Bazar](http://www.bazar.at/)
-* Visa
-  - Red-white-red card application
-  - [Red-White-red card extension](./common/extend-visa.md)
-* Transportation
-  - [Driver License](./common/driver-license.md)
-* Health Insurance
-  - E-card
+## Common Information
 
-# Vienna
-* Education
-  - German course and government support
-  - Undergrad studies
-  - Master programs
-  - PhD programs
+* Rent websites
+  * [Willhaben](https://www.willhaben.at/iad/immobilien/)
+  * [Immowelt](https://www.immowelt.at/)
+  * [Immobilien Scout](https://www.immobilienscout24.at/)
+  * [Immodirekt](https://www.immodirekt.at/)
+  * [Donau Raum](http://www.donau-raum.at/)
+  * [Wohnnet](https://www.wohnnet.at/)
+  * [Bazar](http://www.bazar.at/)
+* Visa
+  * Red-white-red card application
+  * [Red-White-red card extension](./common/extend-visa.md)
 * Transportation
-  - Public transport
-    - [Wiener Linien](https://www.wienerlinien.at)
-    - [VOR](https://www.vor.at/)
-  - Bike services
-    - [Citybike Wien](https://www.citybikewien.at/en/)
-  - Ride apps
-    - [Uber](https://www.uber.com/at/de/)
-    - [Mytaxi](https://mytaxi.com/at/)
-  - Electric scooter apps
-    - [Lime](https://www.li.me/electric-scooter)
-    - [Bird](https://www.bird.co/)
-    - [Tier](https://www.tier.app/)
+  * [Driver License](./common/driver-license.md)
+* Health Insurance
+  * E-card
+* Taxes
+  * [The Austrian tax book 2021 (English Version)](./attachments/the-tax-book-2021.pdf)
+
+## Vienna
+
+* Education
+  * German course and government support
+  * Undergrad studies
+  * Master programs
+  * PhD programs
+* Transportation
+  * Public transport
+    * [Wiener Linien](https://www.wienerlinien.at)
+    * [VOR](https://www.vor.at/)
+  * Bike services
+    * [Citybike Wien](https://www.citybikewien.at/en/)
+  * Ride apps
+    * [Uber](https://www.uber.com/at/de/)
+    * [Mytaxi](https://mytaxi.com/at/)
+  * Electric scooter apps
+    * [Lime](https://www.li.me/electric-scooter)
+    * [Bird](https://www.bird.co/)
+    * [Tier](https://www.tier.app/)
 * Food
-  - You must eat Schnitzel
-    - [Figlmüller - The home of Schinitzel](https://figlmueller.at/en/)
-    - [Brandauer](https://www.bierig.at/)
-  - Delivery apps
-    - [mjam.at](https://www.mjam.net/)
-    - [Foodora](https://www.foodora.at/en/city/wien)
+  * You must eat Schnitzel
+    * [Figlmüller - The home of Schinitzel](https://figlmueller.at/en/)
+    * [Brandauer](https://www.bierig.at/)
+  * Delivery apps
+    * [mjam.at](https://www.mjam.net/)
+    * [Foodora](https://www.foodora.at/en/city/wien)
 * Buy & Sell online
-  - [Willhaben](https://willhaben.at)
-  - [Shpock](https://www.shpock.com/de-at)
+  * [Willhaben](https://willhaben.at)
+  * [Shpock](https://www.shpock.com/de-at)
