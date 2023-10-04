@@ -1,4 +1,3 @@
-
 # General
 .DS_Store
 .AppleDouble
@@ -21,3 +20,8 @@
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# NextJS framework
+.next
+out
+node_modules

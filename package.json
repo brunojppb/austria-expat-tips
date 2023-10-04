@@ -1,0 +1,39 @@
+{
+  "name": "austria-expat-trip",
+  "version": "0.0.1",
+  "description": "Austria expat tips",
+  "engines": {
+    "node": "20.8.0",
+    "pnpm": "8.8.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunojppb/austria-expat-tips.git"
+  },
+  "author": "Bruno Paulino <hey@bpaulino.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunojppb/austria-expat-tips/issues"
+  },
+  "homepage": "https://github.com/brunojppb/austria-expat-tips#readme",
+  "dependencies": {
+    "next": "13.5.4",
+    "nextra": "2.13.1",
+    "nextra-theme-docs": "2.13.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.10",
+    "typescript": "5.2.2"
+  },
+  "volta": {
+    "node": "20.8.0",
+    "pnpm": "8.8.0"
+  }
+}
