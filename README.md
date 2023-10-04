@@ -1,68 +1,45 @@
-# Austria Expat Tips &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/brunojppb/austria-expat-tips/blob/master/LICENSE) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+# Austria expat tips
 
-![Alps](./img/header.jpg)
+This is the source code for the Austria expat tips website.
 
-Are you an expat that just moved to Austria, or are you planning to move in soon? Here you can find valuable information about common things you must do and also the beloved bureaucratic processes the Austrians love so much 🙃.  
+## How to contribute
 
-If you are a veteran expat, please contribute to this list. Let's help the expat community as much as we can.  
+Everything under the `pages` directory becomes a page of the website. Just
+create a `.mdx` file and start writing.
 
-## Directory Structure
+## How to preview your changes locally
 
-Some information is common and valid (mostly) for the whole country, but some cities or regions have their own quirks. The common information is located in the **common** directory. The cities/regions have their own directory.  
+To preview the website locally, just make sure that you are running our web dev
+server. It will generate the website and will hot-reload the page whenever your
+save your changes.
 
-If you are contributing to the project and the city's directory doesn't exist, please create one and update the index here.  
+You will need to have installed:
 
-Topics listed below with no links were listed on purpose. Those topics are considered super important, but we lack its contents. Please, submit a pull-request with those contents.  
-  
-Topics NOT listed here are also welcome.
+- [x] Node 20
+- [x] pnpm 8
 
-## Common Information
+The easiest way to get this up and running is by installing
+[Volta](https://volta.sh/) and exporting the following environment variable on
+your shell (e.g. `.bash_profile`, `.zshrc`, or similar):
 
-* Rent websites
-  * [Willhaben](https://www.willhaben.at/iad/immobilien/)
-  * [Immowelt](https://www.immowelt.at/)
-  * [Immobilien Scout](https://www.immobilienscout24.at/)
-  * [Immodirekt](https://www.immodirekt.at/)
-  * [Donau Raum](http://www.donau-raum.at/)
-  * [Wohnnet](https://www.wohnnet.at/)
-  * [Bazar](http://www.bazar.at/)
-* Visa
-  * Red-white-red card application
-  * [Red-White-red card extension](./common/extend-visa.md)
-* Transportation
-  * [Driver License](./common/driver-license.md)
-* Health Insurance
-  * E-card
-* Taxes
-  * [The Austrian tax book 2021 (English Version)](./attachments/the-tax-book-2021.pdf)
+```shell
+export VOLTA_FEATURE_PNPM=1
+```
 
-## Vienna
+Then install all dependencies with:
 
-* Education
-  * German course and government support
-  * Undergrad studies
-  * Master programs
-  * PhD programs
-* Transportation
-  * Public transport
-    * [Wiener Linien](https://www.wienerlinien.at)
-    * [VOR](https://www.vor.at/)
-  * Bike services
-    * [Citybike Wien](https://www.citybikewien.at/en/)
-  * Ride apps
-    * [Uber](https://www.uber.com/at/de/)
-    * [Mytaxi](https://mytaxi.com/at/)
-  * Electric scooter apps
-    * [Lime](https://www.li.me/electric-scooter)
-    * [Bird](https://www.bird.co/)
-    * [Tier](https://www.tier.app/)
-* Food
-  * You must eat Schnitzel
-    * [Figlmüller - The home of Schinitzel](https://figlmueller.at/en/)
-    * [Brandauer](https://www.bierig.at/)
-  * Delivery apps
-    * [mjam.at](https://www.mjam.net/)
-    * [Foodora](https://www.foodora.at/en/city/wien)
-* Buy & Sell online
-  * [Willhaben](https://willhaben.at)
-  * [Shpock](https://www.shpock.com/de-at)
+```shell
+pnpm install
+```
+
+Now you can run the local server with:
+
+```shell
+pnpm dev
+```
+
+Now visit [localhost:3000](http://localhost:3000).
+
+## License
+
+This project is licensed under the MIT License.
