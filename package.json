@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/brunojppb/austria-expat-tips/issues"
   },
-  "homepage": "https://github.com/brunojppb/austria-expat-tips#readme",
+  "homepage": "https://austria-expat-tips.pages.dev",
   "dependencies": {
     "next": "13.5.4",
     "nextra": "2.13.1",
