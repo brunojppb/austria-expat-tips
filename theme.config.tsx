@@ -10,6 +10,22 @@ const config: DocsThemeConfig = {
   footer: {
     text: "Austria Expact Tips",
   },
+  useNextSeoProps: () => {
+    return {
+      title: "Austria Expat Tips",
+      description: "Tips for expats living in Austria",
+      openGraph: {
+        description: "Tips for expats living in Austria",
+        url: "https://austria-expat-tips.pages.dev/",
+        siteName: "Austria Expat Tips",
+        images: [
+          {
+            url: "https://austria-expat-tips.pages.dev/cover.jpg",
+          },
+        ],
+      },
+    };
+  },
 };
 
 export default config;
