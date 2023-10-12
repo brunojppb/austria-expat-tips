@@ -7,4 +7,5 @@ module.exports = withNextra({
   images: {
     unoptimized: true,
   },
+  docsRepositoryBase: "https://github.com/brunojppb/austria-expat-tips/tree/master/pages"
 })
