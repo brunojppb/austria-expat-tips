@@ -6,7 +6,7 @@ const config: DocsThemeConfig = {
   project: {
     link: "https://github.com/brunojppb/austria-expat-tips",
   },
-  docsRepositoryBase: "https://github.com/brunojppb/austria-expat-tips",
+  docsRepositoryBase: "https://github.com/brunojppb/austria-expat-tips/tree/master",
   footer: {
     text: "Austria Expact Tips",
   },
